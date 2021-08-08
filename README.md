@@ -2,8 +2,7 @@
 - I’m interested in learning new tech
 - I’m currently learning Angular, AI programming in python.
 - Currently working on .Net tech - mostly windows based.
-- I’m looking to collaborate on ...
-
+Looking forward to unlearn/learn anything new!
 
 <!---
 nitinsc/nitinsc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
